@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1592574493 source:e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\linkedlistclass\linkedlist.cpp
+	"linkedlist.h"
+	<iostream>
+	<string.h>
+
+1592573838 e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\linkedlistclass\linkedlist.h
+	"linkedlist.cpp"
+
+1592574403 source:e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\linkedlistclass\main.cpp
+	<iostream>
+	"linkedlist.h"
+
+1592574493 e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\linkedlistclass\linkedlist.cpp
+	"linkedlist.h"
+	<iostream>
+	<string.h>
+
