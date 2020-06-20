@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1592642056 source:e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\stack\stackarray\main.cpp
+	<iostream>
+	"stack.h"
+
+1592642105 source:e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\stack\stackarray\stack.cpp
+	"stack.h"
+	<iostream>
+	<string.h>
+
+1592641931 e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\stack\stackarray\stack.h
+	"stack.cpp"
+
+1592642105 e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\stack\stackarray\stack.cpp
+	"stack.h"
+	<iostream>
+	<string.h>
+

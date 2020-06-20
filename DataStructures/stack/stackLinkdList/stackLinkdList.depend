@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1592649129 source:e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\stack\stacklinkdlist\main.cpp
+	<iostream>
+	"stackl.h"
+
+1592649830 source:e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\stack\stacklinkdlist\stackl.cpp
+	"stackl.h"
+	"iostream"
+
+1592649472 e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\stack\stacklinkdlist\stackl.h
+	"stackl.cpp"
+
+1592646100 e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\stack\stacklinkdlist\\stackl.cpp
+	"stackl.h"
+	<iostream>
+
+1592646164 e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\stack\stacklinkdlist\\stackl.h
+	<stackl.cpp>
+
+1592649830 e:\datastructure and alghorithm\2. essential c and c++ concepts\c++\datastructures\stack\stacklinkdlist\stackl.cpp
+	"stackl.h"
+	"iostream"
+
